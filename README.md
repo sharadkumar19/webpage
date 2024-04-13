@@ -1,2 +1,2 @@
 # webpage
-some features of web pages
+some features of web page
